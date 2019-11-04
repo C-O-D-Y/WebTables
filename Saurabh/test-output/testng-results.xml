@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-11-04T08:43:19Z" name="Default suite" finished-at="2019-11-04T08:43:43Z" duration-ms="24745">
+    <groups>
+    </groups>
+    <test started-at="2019-11-04T08:43:19Z" name="Default test" finished-at="2019-11-04T08:43:43Z" duration-ms="24745">
+      <class name="com.chauhan.Saurabh.GetTableData">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:com.chauhan.Saurabh.GetTableData@10db82ae]" started-at="2019-11-04T08:43:18Z" name="startReport" finished-at="2019-11-04T08:43:19Z" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="intitailizeBrowser()[pri:0, instance:com.chauhan.Saurabh.GetTableData@10db82ae]" started-at="2019-11-04T08:43:19Z" name="intitailizeBrowser" finished-at="2019-11-04T08:43:32Z" duration-ms="13903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intitailizeBrowser -->
+        <test-method is-config="true" signature="loadLocatorsFile()[pri:0, instance:com.chauhan.Saurabh.GetTableData@10db82ae]" started-at="2019-11-04T08:43:32Z" name="loadLocatorsFile" finished-at="2019-11-04T08:43:32Z" depends-on-methods="com.chauhan.Saurabh.testBase.TestBase.intitailizeBrowser" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadLocatorsFile -->
+        <test-method signature="getDataByNumbers()[pri:1, instance:com.chauhan.Saurabh.GetTableData@10db82ae]" started-at="2019-11-04T08:43:32Z" name="getDataByNumbers" finished-at="2019-11-04T08:43:34Z" duration-ms="1214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDataByNumbers -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.chauhan.Saurabh.GetTableData@10db82ae]" started-at="2019-11-04T08:43:34Z" name="tearDown" finished-at="2019-11-04T08:43:34Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=getDataByNumbers status=SUCCESS method=GetTableData.getDataByNumbers()[pri:1, instance:com.chauhan.Saurabh.GetTableData@10db82ae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="getPosition()[pri:2, instance:com.chauhan.Saurabh.GetTableData@10db82ae]" started-at="2019-11-04T08:43:34Z" name="getPosition" finished-at="2019-11-04T08:43:38Z" duration-ms="4396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPosition -->
+        <test-method signature="getData()[pri:3, instance:com.chauhan.Saurabh.GetTableData@10db82ae]" started-at="2019-11-04T08:43:38Z" name="getData" finished-at="2019-11-04T08:43:42Z" duration-ms="3985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.chauhan.Saurabh.GetTableData@10db82ae]" started-at="2019-11-04T08:43:38Z" name="tearDown" finished-at="2019-11-04T08:43:38Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=getPosition status=SUCCESS method=GetTableData.getPosition()[pri:2, instance:com.chauhan.Saurabh.GetTableData@10db82ae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.chauhan.Saurabh.GetTableData@10db82ae]" started-at="2019-11-04T08:43:42Z" name="tearDown" finished-at="2019-11-04T08:43:42Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=getData status=SUCCESS method=GetTableData.getData()[pri:3, instance:com.chauhan.Saurabh.GetTableData@10db82ae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="getRowData()[pri:4, instance:com.chauhan.Saurabh.GetTableData@10db82ae]" started-at="2019-11-04T08:43:42Z" name="getRowData" finished-at="2019-11-04T08:43:43Z" duration-ms="912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRowData -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.chauhan.Saurabh.GetTableData@10db82ae]" started-at="2019-11-04T08:43:43Z" name="tearDown" finished-at="2019-11-04T08:43:43Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=getRowData status=SUCCESS method=GetTableData.getRowData()[pri:4, instance:com.chauhan.Saurabh.GetTableData@10db82ae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="getata()[pri:5, instance:com.chauhan.Saurabh.GetTableData@10db82ae]" started-at="2019-11-04T08:43:43Z" name="getata" finished-at="2019-11-04T08:43:43Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getata -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.chauhan.Saurabh.GetTableData@10db82ae]" started-at="2019-11-04T08:43:43Z" name="closeBrowser" finished-at="2019-11-04T08:43:43Z" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.chauhan.Saurabh.GetTableData@10db82ae]" started-at="2019-11-04T08:43:43Z" name="tearDown" finished-at="2019-11-04T08:43:43Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=getata status=SUCCESS method=GetTableData.getata()[pri:5, instance:com.chauhan.Saurabh.GetTableData@10db82ae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="print()[pri:0, instance:com.chauhan.Saurabh.GetTableData@10db82ae]" started-at="2019-11-04T08:43:43Z" name="print" finished-at="2019-11-04T08:43:43Z" depends-on-methods="com.chauhan.Saurabh.GetTableData.closeBrowser" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.chauhan.Saurabh.GetTableData@10db82ae]" started-at="2019-11-04T08:43:43Z" name="endReport" finished-at="2019-11-04T08:43:44Z" duration-ms="531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.chauhan.Saurabh.GetTableData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

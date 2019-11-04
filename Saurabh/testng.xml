@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="1" name="HomepageTest">
+		<classes>
+
+			<class name="com.chauhan.Saurabh.HomePagetestscripts" />
+
+		</classes>
+
+	</test> <!-- Test -->
+
+	<test thread-count="1" name="ComputerPeripheralsTest">
+		<classes>
+
+			<class name="com.chauhan.Saurabh.HomePageComputerPeripherals" />
+
+		</classes>
+	</test> <!-- Test -->
+
+	<test thread-count="1" name="HeroImageTest">
+
+		<classes>
+
+			<class name="com.chauhan.Saurabh.HeroImageProducttestscripts" />
+
+		</classes>
+
+	</test> <!-- Test -->
+
+</suite> <!-- Suite -->

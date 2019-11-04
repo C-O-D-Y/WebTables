@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="HomepageTest(failed)" verbose="0">
+    <classes>
+      <class name="com.chauhan.Saurabh.HomePagetestscripts">
+        <methods>
+          <include name="intitailizeBrowser"/>
+          <include name="tearDown"/>
+          <include name="startReport"/>
+          <include name="endReport"/>
+          <include name="print"/>
+          <include name="loadLocatorsFile"/>
+          <include name="validateProductAvilability" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.chauhan.Saurabh.HomePagetestscripts -->
+    </classes>
+  </test> <!-- HomepageTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

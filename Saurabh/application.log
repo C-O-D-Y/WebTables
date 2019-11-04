@@ -1,0 +1,231 @@
+2019-10-25 15:21:52,457  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-10-25 15:21:54,089 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-25 15:21:54,089 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-25 15:21:54,089 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-25 15:21:54,089 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-25 15:21:54,105 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-25 15:23:21,392  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-10-25 15:23:22,784 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-25 15:23:22,788 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-25 15:23:22,792 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-25 15:23:22,796 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-25 15:23:22,796 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-25 15:26:07,673  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-10-25 15:26:08,666 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-25 15:26:08,666 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-25 15:26:08,678 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-25 15:26:08,682 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-25 15:26:08,682 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-25 15:30:07,219  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-10-25 15:30:08,088  INFO [main] HomePagetestscripts:48 - Starting table validation
+2019-10-25 15:30:16,078 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-25 15:30:16,082 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-25 15:30:16,082 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-25 15:30:16,086 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-25 15:30:16,086 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-25 15:32:31,690  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-10-25 15:32:32,957  INFO [main] HomePagetestscripts:48 - Starting table validation
+2019-10-25 15:32:34,655 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-25 15:32:34,659 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-25 15:32:34,663 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-25 15:32:34,667 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-25 15:32:34,667 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-25 15:56:53,537  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-10-25 15:56:54,863  INFO [main] HomePagetestscripts:48 - Starting table validation
+2019-10-25 15:56:55,677 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-25 15:56:55,681 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-25 15:56:55,685 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-25 15:56:55,689 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-25 15:56:55,689 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-25 15:58:46,888  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-10-25 15:58:48,161  INFO [main] HomePagetestscripts:48 - Starting table validation
+2019-10-25 15:58:49,043 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-25 15:58:49,060 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-25 15:58:49,061 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-25 15:58:49,061 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-25 15:58:49,061 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-25 16:01:47,861  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-10-25 16:01:49,530  INFO [main] HomePagetestscripts:48 - Starting table validation
+2019-10-25 16:01:50,601 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-25 16:01:50,601 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-25 16:01:50,617 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-25 16:01:50,617 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-25 16:01:50,617 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-25 16:05:58,307  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-10-25 16:05:59,923  INFO [main] HomePagetestscripts:48 - Starting table validation
+2019-10-25 16:06:00,500 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-25 16:06:00,500 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-25 16:06:00,504 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-25 16:06:00,508 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-25 16:06:00,508 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-25 16:09:47,689  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-10-25 16:09:48,988  INFO [main] HomePagetestscripts:48 - Starting table validation
+2019-10-25 16:09:50,866 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-25 16:09:50,870 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-25 16:09:50,874 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-25 16:09:50,878 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-25 16:09:50,878 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-25 16:13:06,626  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-10-25 16:13:07,995  INFO [main] HomePagetestscripts:48 - Starting table validation
+2019-10-25 16:13:11,363 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-25 16:13:11,363 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-25 16:13:11,363 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-25 16:13:11,379 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-25 16:13:11,379 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-25 16:14:18,848  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-10-25 16:14:20,179  INFO [main] HomePagetestscripts:48 - Starting table validation
+2019-10-25 16:14:23,360 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-25 16:14:23,360 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-25 16:14:23,364 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-25 16:14:23,368 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-25 16:14:23,368 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-25 17:45:04,872  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-10-25 17:45:06,111  INFO [main] HomePagetestscripts:48 - Starting table validation
+2019-10-25 17:45:09,554  INFO [main] HomePagetestscripts:58 - Starting table validation
+2019-10-25 17:45:14,241 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-25 17:45:14,241 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-25 17:45:14,257 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-25 17:45:14,257 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-25 17:45:14,257 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-25 17:48:20,113  INFO [main] HomePagetestscripts:37 - Starting table validation
+2019-10-25 17:48:21,367  INFO [main] HomePagetestscripts:47 - Starting table validation
+2019-10-25 17:48:24,269  INFO [main] HomePagetestscripts:57 - Starting table printing
+2019-10-25 17:48:28,578 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-25 17:48:28,578 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-25 17:48:28,593 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-25 17:48:28,593 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-25 17:48:28,593 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-25 17:49:47,291  INFO [main] HomePagetestscripts:37 - Starting table validation
+2019-10-25 17:49:48,691  INFO [main] HomePagetestscripts:47 - Starting table validation
+2019-10-25 17:49:53,620  INFO [main] HomePagetestscripts:57 - Starting table printing
+2019-10-25 17:49:59,933 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-25 17:49:59,933 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-25 17:49:59,949 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-25 17:49:59,949 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-25 17:49:59,949 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-25 17:54:12,006  INFO [main] HomePagetestscripts:48 - Starting Redirection validation
+2019-10-25 17:54:16,993 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-25 17:54:17,093 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-25 17:54:17,097 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-25 17:54:17,101 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-25 17:54:17,101 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-25 17:55:07,835  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-10-25 17:55:09,046  INFO [main] HomePagetestscripts:48 - Starting table validation
+2019-10-25 17:55:11,885  INFO [main] HomePagetestscripts:58 - Starting table printing
+2019-10-25 17:55:16,624 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-25 17:55:16,628 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-25 17:55:16,632 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-25 17:55:16,632 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-25 17:55:16,636 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-25 17:56:53,603  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-10-25 17:56:54,996  INFO [main] HomePagetestscripts:48 - Starting table validation
+2019-10-25 17:56:58,188  INFO [main] HomePagetestscripts:58 - Starting table printing
+2019-10-25 17:57:02,610 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-25 17:57:02,610 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-25 17:57:02,614 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-25 17:57:02,614 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-25 17:57:02,618 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-25 18:13:09,627  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-10-25 18:13:10,892  INFO [main] HomePagetestscripts:48 - Starting table validation
+2019-10-25 18:13:13,852  INFO [main] HomePagetestscripts:58 - Starting table printing
+2019-10-25 18:13:18,205  INFO [main] HomePagetestscripts:68 - Starting table printing
+2019-10-25 18:13:19,584 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-25 18:13:19,584 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-25 18:13:19,584 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-25 18:13:19,584 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-25 18:13:19,584 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-25 18:14:44,317  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-10-25 18:14:45,464  INFO [main] HomePagetestscripts:48 - Starting table validation
+2019-10-25 18:14:48,315  INFO [main] HomePagetestscripts:58 - Starting table printing
+2019-10-25 18:14:52,259  INFO [main] HomePagetestscripts:68 - Starting table printing
+2019-10-25 18:14:53,546 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-25 18:14:53,550 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-25 18:14:53,554 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-25 18:14:53,558 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-25 18:14:53,562 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-28 10:34:10,796  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-10-28 10:34:12,776  INFO [main] HomePagetestscripts:48 - Starting table validation
+2019-10-28 10:34:15,808  INFO [main] HomePagetestscripts:58 - Starting table printing
+2019-10-28 10:34:20,275  INFO [main] HomePagetestscripts:68 - Starting table printing
+2019-10-28 10:34:25,655 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-28 10:34:25,658 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-28 10:34:25,662 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-28 10:34:25,664 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-28 10:34:25,666 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-28 22:23:29,646  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-10-28 22:23:31,410  INFO [main] HomePagetestscripts:48 - Starting table validation
+2019-10-28 22:23:36,544  INFO [main] HomePagetestscripts:58 - Starting table printing
+2019-10-28 22:23:40,881  INFO [main] HomePagetestscripts:68 - Starting table printing
+2019-10-28 22:23:42,037  INFO [main] HomePagetestscripts:78 - Starting table printing
+2019-10-28 22:23:47,473 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-28 22:23:47,477 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-28 22:23:47,481 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-28 22:23:47,481 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-28 22:23:47,481 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-28 22:26:08,454  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-10-28 22:26:09,977  INFO [main] HomePagetestscripts:48 - Starting table validation
+2019-10-28 22:26:15,642  INFO [main] HomePagetestscripts:58 - Starting table printing
+2019-10-28 22:26:19,798  INFO [main] HomePagetestscripts:68 - Starting table printing
+2019-10-28 22:26:20,791  INFO [main] HomePagetestscripts:78 - Starting table printing
+2019-10-28 22:26:25,653 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-28 22:26:25,657 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-28 22:26:25,661 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-28 22:26:25,665 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-28 22:26:25,665 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-28 22:30:44,399  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-10-28 22:30:46,277  INFO [main] HomePagetestscripts:48 - Starting table validation
+2019-10-28 22:30:53,109  INFO [main] HomePagetestscripts:58 - Starting table printing
+2019-10-28 22:30:57,496  INFO [main] HomePagetestscripts:68 - Starting table printing
+2019-10-28 22:30:58,648  INFO [main] HomePagetestscripts:78 - Starting table printing
+2019-10-28 22:31:03,545 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-28 22:31:03,549 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-28 22:31:03,553 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-28 22:31:03,553 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-28 22:31:03,553 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-28 22:33:16,757  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-10-28 22:33:18,828  INFO [main] HomePagetestscripts:48 - Starting table validation
+2019-10-28 22:33:23,534  INFO [main] HomePagetestscripts:58 - Starting table printing
+2019-10-28 22:33:27,966  INFO [main] HomePagetestscripts:68 - Starting table printing
+2019-10-28 22:33:29,100  INFO [main] HomePagetestscripts:78 - Starting table printing
+2019-10-28 22:33:34,045 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-28 22:33:34,049 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-28 22:33:34,049 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-28 22:33:34,053 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-28 22:33:34,053 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-04 11:25:14,843  INFO [main] HomePagetestscripts:48 - Starting Redirection validation
+2019-11-04 11:25:19,352 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-04 11:25:19,399 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-04 11:25:19,399 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-04 11:25:19,415 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-04 11:25:19,415 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-04 14:08:05,007  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-11-04 14:08:06,308  INFO [main] HomePagetestscripts:48 - Starting table validation
+2019-11-04 14:08:11,046  INFO [main] HomePagetestscripts:58 - Starting table printing
+2019-11-04 14:08:14,886  INFO [main] HomePagetestscripts:68 - Starting table printing
+2019-11-04 14:08:15,844  INFO [main] HomePagetestscripts:79 - Starting table printing
+2019-11-04 14:08:16,746 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-04 14:08:16,749 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-04 14:08:16,753 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-04 14:08:16,755 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-04 14:08:16,760 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-04 14:12:13,793  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-11-04 14:12:14,930  INFO [main] HomePagetestscripts:48 - Starting table validation
+2019-11-04 14:12:19,059  INFO [main] HomePagetestscripts:58 - Starting table printing
+2019-11-04 14:12:23,299  INFO [main] HomePagetestscripts:68 - Starting table printing
+2019-11-04 14:12:24,393  INFO [main] HomePagetestscripts:79 - Starting table printing
+2019-11-04 14:12:25,284 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-04 14:12:25,287 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-04 14:12:25,290 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-04 14:12:25,302 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-04 14:12:25,304 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-04 14:13:32,988  INFO [main] HomePagetestscripts:38 - Starting table validation
+2019-11-04 14:13:34,205  INFO [main] HomePagetestscripts:48 - Starting table validation
+2019-11-04 14:13:38,617  INFO [main] HomePagetestscripts:58 - Starting table printing
+2019-11-04 14:13:42,608  INFO [main] HomePagetestscripts:68 - Starting table printing
+2019-11-04 14:13:43,523  INFO [main] HomePagetestscripts:79 - Starting table printing
+2019-11-04 14:13:43,830 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-04 14:13:43,845 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-04 14:13:43,845 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-04 14:13:43,845 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-04 14:13:43,845 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-04 17:21:41,105  INFO [main] HomePagetestscripts:48 - Starting Redirection validation

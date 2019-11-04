@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.chauhan.Saurabh.HomePagetestscripts">
+        <methods>
+          <include name="intitailizeBrowser"/>
+          <include name="tearDown"/>
+          <include name="startReport"/>
+          <include name="homePageRedirection"/>
+          <include name="endReport"/>
+          <include name="print"/>
+          <include name="validateErrorMessage"/>
+          <include name="validateProductAvilability"/>
+        </methods>
+      </class> <!-- com.chauhan.Saurabh.HomePagetestscripts -->
+      <class name="com.chauhan.Saurabh.HeroImageProducttestscripts">
+        <methods>
+          <include name="validateContents"/>
+          <include name="loadLocatorsFile"/>
+          <include name="validateSortingByDate"/>
+          <include name="intitailizeBrowser"/>
+          <include name="tearDown"/>
+          <include name="startReport"/>
+          <include name="homePageRedirection"/>
+          <include name="validateSortingByRating"/>
+          <include name="endReport"/>
+          <include name="print"/>
+        </methods>
+      </class> <!-- com.chauhan.Saurabh.HeroImageProducttestscripts -->
+      <class name="com.chauhan.Saurabh.HomePageComputerPeripherals">
+        <methods>
+          <include name="intitailizeBrowser"/>
+          <include name="tearDown"/>
+          <include name="startReport"/>
+          <include name="loadLocatorsFile"/>
+          <include name="validateMessage"/>
+          <include name="validateProductAvilability"/>
+          <include name="endReport"/>
+          <include name="print"/>
+          <include name="validatePricingSortingFunctionality"/>
+        </methods>
+      </class> <!-- com.chauhan.Saurabh.HomePageComputerPeripherals -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

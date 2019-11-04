@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 19, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 158.195 s <<< FAILURE! - in TestSuite
+validateProductAvilability(com.chauhan.Saurabh.HomePagetestscripts)  Time elapsed: 9.386 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+Unable to find element with xpath == //a[text()='Matrox G200 MMS']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-038', ip: '55.55.52.193', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: https://www.konakart.com/ko..., nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: b925097c-ce89-40bf-8cbc-dfdd2ce10f45
+*** Element info: {Using=xpath, value=//a[text()='Matrox G200 MMS']}
+	at com.chauhan.Saurabh.HomePagetestscripts.validateProductAvilability(HomePagetestscripts.java:63)
+
